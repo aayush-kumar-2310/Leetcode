@@ -1,1 +1,0 @@
-memset(board, 0, sizeof(board));
